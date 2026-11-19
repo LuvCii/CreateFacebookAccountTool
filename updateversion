@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.1.8</version>
-    <url>https://github.com/LuvCii/CreateFacebookAccountTool/releases/download/v1.0.1.8/CreateFacebookAccount.zip</url>
+    <version>1.0.1.9</version>
+    <url>https://github.com/LuvCii/CreateFacebookAccountTool/releases/download/v1.0.1.9/CreateFacebookAccount.zip</url>
     <changelog>Public tool</changelog>
     <mandatory>true</mandatory>
 </item>
